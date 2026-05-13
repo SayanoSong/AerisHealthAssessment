@@ -25,6 +25,9 @@
 
 - **APIQuestions.md**: Solution for frontend design
   - Refer to the file for details on Xero API implementation
+
+### Frontend
+
 - **Frontend Implementation Notes**:
   - While the task focuses on frontend technology, backend simulation is also implemented for versatility across multiple roles
   - Uses `localStorage` to simulate a database with interaction logic
